@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm sum-one</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"  /><br>
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=patty-yang&label=Profile%20views&color=0e75b6&style=flat" alt="patty-yang" /> </p>)
+<img src="https://komarev.com/ghpvc/?username=patty-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
-- 📝 I regularly write articles on [https://sumone-blog.vercel.app/](https://sumone-blog.vercel.app/)
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=patty-yang&layout=compact&theme=buefy&hide_border=true" alt=""/>
 
-<p align="left">
-</p>
+# 👋 Hi, I'm Sum-One
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+A passionate **frontend developer** who loves creating beautiful and functional web applications.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patty-yang&show_icons=true&locale=en&layout=compact" alt="patty-yang" /></p>
+📝 I regularly write articles on my [blog](https://sumone-blog.vercel.app/).
+
+---
+
+## 🌱 I’m currently learning
+
+### Languages and Tools:
+<div>
+    <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript" alt="TypeScript"/></code>
+    <code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript" alt="JavaScript"/></code>
+    <code><img src="https://img.shields.io/badge/Vue.js-black.svg?style=for-the-badge&logo=vue.js" alt="Vue.js"/></code>
+    <code><img src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react" alt="React"/></code>
+    <code><img src="https://img.shields.io/badge/Tailwind%20CSS-black.svg?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS"/></code>
+    <code><img src="https://img.shields.io/badge/NestJS-black.svg?style=for-the-badge&logo=nestjs" alt="NestJS"/></code>
+</div>
+
+---
